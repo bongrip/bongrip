@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @resorted
+- 🌎 17, Minnesota.
+- 📧 xmbvbusiness@gmail.com
