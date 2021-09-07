@@ -10,7 +10,7 @@ My name is Dominic.
 
 ### Some Highlights:
 
-- 💻 &nbsp; COMMING SOON
+- 💻 &nbsp; None :D
 
 
 
