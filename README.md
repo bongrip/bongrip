@@ -17,7 +17,7 @@ My name is Dominic.
 
 ### Languages and Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-RustLang-red?logo=Rust&style=flat)&nbsp;
+![Rust](https://img.shields.io/badge/-RustLang-red?logo=Rust&style=flat)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Stats
