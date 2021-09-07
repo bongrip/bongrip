@@ -9,8 +9,8 @@ My name is Dominic.
 
 
 ### Some Highlights:
-
-- ![Rust](https://img.shields.io/badge/-RustLang-333333?logo=Rust&style=flat)&nbsp; [DX9 Hook](https://github.com/resorted/rust-dx9-imgui)
+![Rust](https://img.shields.io/badge/-RustLang-333333?logo=Rust&style=flat)&nbsp;
+- [DX9 Hook](https://github.com/resorted/rust-dx9-imgui)
 
 
 
