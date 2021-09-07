@@ -1,4 +1,4 @@
-## Hey 👋, I'm [emv](https://github.com/emv)
+## Hey 👋, I'm [emv](https://github.com/resorted)
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/resorted)
 
@@ -10,7 +10,7 @@ My name is Dominic.
 
 ### Some Highlights:
 
-- 💻 &nbsp; None :D
+- ![Rust](https://img.shields.io/badge/-RustLang-333333?logo=Rust&style=flat)&nbsp; [DX9 Hook](https://github.com/resorted/rust-dx9-imgui)
 
 
 
