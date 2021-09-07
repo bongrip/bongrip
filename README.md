@@ -1,7 +1,5 @@
 ## Hey 👋, I'm [emv](https://github.com/emv)
 
-<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/864190077021978655/864607949720780830/85532754.png" />
-
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/resorted)
 
 
