@@ -1,6 +1,6 @@
-## Hey 👋, I'm [emv](https://github.com/resorted)
+## Hey 👋, I'm [Makz](https://github.com/disrespected)
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/resorted)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/disrespected)
 
 
 My name is Dominic.
@@ -10,7 +10,7 @@ My name is Dominic.
 
 ### Some Highlights:
 ![Rust](https://img.shields.io/badge/-RustLang-333333?logo=Rust&style=flat)&nbsp;
-- [DX9 Hook](https://github.com/resorted/rust-dx9-imgui)
+- [DX9 Hook](https://github.com/disrespected/rust-dx9-imgui)
 
 
 
@@ -25,7 +25,7 @@ My name is Dominic.
 <p align="left">
 <a href="https://github.com/resorted">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=resorted&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=resorted&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=disrespected&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
@@ -33,6 +33,6 @@ My name is Dominic.
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10
+- OS: Windows 11
 - Browser: Opera GX
 - Code Editor: VSCode 
