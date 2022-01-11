@@ -1,6 +1,6 @@
-## Hey 👋, I'm [Makz](https://github.com/disrespected)
+## Hey 👋, I'm [Makz](https://github.com/bongrip)
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/disrespected)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/bongrip)
 
 
 My name is Dominic.
@@ -10,7 +10,7 @@ My name is Dominic.
 
 ### Some Highlights:
 ![Rust](https://img.shields.io/badge/-RustLang-333333?logo=Rust&style=flat)&nbsp;
-- [DX9 Hook](https://github.com/disrespected/rust-dx9-imgui)
+- [DX9 Hook](https://github.com/bongrip/rust-dx9-imgui)
 
 
 
@@ -23,9 +23,9 @@ My name is Dominic.
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
-<a href="https://github.com/disrespected">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=disrespected&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=disrespected&layout=compact&langs_count=8&theme=react"/>
+<a href="https://github.com/bongrip">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bongrip&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bongrip&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
 
