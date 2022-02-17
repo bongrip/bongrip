@@ -1,19 +1,6 @@
-## Hey 👋, I'm [Makz](https://github.com/bongrip)
+## Hey 👋
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/bongrip)
-
-
-My name is Dominic.
-
-
-
-
-### Some Highlights:
-![Rust](https://img.shields.io/badge/-RustLang-333333?logo=Rust&style=flat)&nbsp;
-- [DX9 Hook](https://github.com/bongrip/rust-dx9-imgui)
-
-
-
 
 ### Languages and Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -28,11 +15,3 @@ My name is Dominic.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bongrip&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
-
----
-
-### ⚙️ My Resources & Tools:
-
-- OS: Windows 11
-- Browser: Opera GX
-- Code Editor: VSCode 
