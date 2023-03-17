@@ -1,17 +1,18 @@
 ## Hey 👋
 -----BEGIN PGP SIGNED MESSAGE-----<br>
-@bongrip on github<br>
+contact: retire@cocaine.ninja<br>
+<br>
+responses will be slow, sry :(<br>
 <br>
 -----BEGIN PGP SIGNATURE-----<br>
-<br>
-yMCUAnicAUgBt/7EDQMACgGNRPrbvxXSyAHLGHUAZBTNRkBib25ncmlwIG9uIGdp<br>
-dGh1YsLAXAQAAQoABgUCZBTNRgAKCRCNRPrbvxXSyO4nCACMYkq6417Ctm0qdUES<br>
-sG9TOJt2J+6+XbHQM+blSD65aknyhNi6jRJ2/j4xcvX0sATy7ouURiddbZMUsi9t<br>
-HbqU+FM5TkyHIBlkMEo3VjcTQsws48WjqM/G2QjZcOlJHYk9N+uQ3mjcWtHkIsBE<br>
-WEA/pSxAM0LXw1hUtpZIG0tadDOhVm5kstNWlKpWa+4Q1egUwe+FA+YKpBSI0yeg<br>
-36Kxq3epmmkCzRh/3DAq5yCc4JYlHIOhozDcGRS5CkCtM/rhg+YYUtxO0MwQjK+M<br>
-hNyvJAWT0t/kKrzP3TH+5tCujPwm+Co1HkVoCX/PTc2k5bKfERdLwpfwVyZXwrbc<br>
-oseDkxeaWg==<br>
-=AINx<br>
-<br>
+yMC/AnicAXMBjP7EDQMACgGNRPrbvxXSyAHLQ3UAZBTOV2NvbnRhY3Q6IHJldGly<br>
+ZUBjb2NhaW5lLm5pbmphCgpyZXNwb25zZXMgd2lsbCBiZSBzbG93LCBzcnkgOijC<br>
+wFwEAAEKAAYFAmQUzlcACgkQjUT6278V0sgcdAf/enYIErhc4WM4R3GCDBaXyROA<br>
+1YPlil2ToFAswXjDs7VPRMe2rqskhyQ+Rj3qM5G2DoDoEpatH/bjSom2jAREWiyI<br>
+U5KnmQmC4Ul2zTrjtyGSXPioc1hIhi8/68vNWLlip/zA2mwUKz098Okqn3DGubQq<br>
+vkZruB44Q6G5gA6AEgX/IJGmz+b9dD7uL8EPBg/5/4iIh8o4aNfkmCH0wbnxNVJH<br>
+ZpfGEGIMJiDKp6T8dXDdIc9A7/PHhmGxK/74wBpSxmlzKnT7FD/z0zEYb5YlTTI0<br>
+NUBcPhaJ/NZpUoIF8W5YrWwAsBvcL0KU39zPPr4K9MC8N3w7Yj6eF+gpIoIkNP03<br>
+pi4=<br>
+=Nrsf<br>
 -----END PGP SIGNATURE-----<br>
