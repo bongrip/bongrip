@@ -1,3 +1,6 @@
-## Hello!
+## 👋 Hey there! I'm @bongrip 
 
-CRE/SRE
+I'm a developer based out in North Carolina 📍. 
+
+### 📫  Contact me
+Email: `bongripgithub@gmail.com`
