@@ -3,4 +3,4 @@
 I'm a developer based out in North Carolina 📍. 
 
 ### 📫  Contact me
-Email: `...`
+Email: `dominicrichardson@valorant.lol`
